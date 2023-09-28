@@ -1,5 +1,6 @@
 # POS_system_and_inventory
-It is simple offline POS system, that use to get barcode to save product using bluetooth using JAVA programming language and MYSQL WAMP
+It is simple offline POS system, that use to get barcode to save product using bluetooth.
+JAVA programming language and MYSQL WAMP
 
 
 ![1](https://github.com/DevYancy/POS_system_and_inventory/assets/146213202/ad810c19-4060-4ad1-983d-e01f9b67df4e)
