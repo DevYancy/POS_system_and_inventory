@@ -1,0 +1,7 @@
+Cashier
+username: yancy
+password: yancy
+
+Admin
+username: inventuser
+password: 8597
